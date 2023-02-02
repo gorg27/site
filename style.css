@@ -1,0 +1,39 @@
+.haut {
+  background-image: url(./images/IMG_4750.jpg);
+}
+
+.premier {
+  width: 250px;
+  height: 100px;
+}
+
+.deuxieme {
+  width: 500px;
+  height: 500px;
+}
+
+.troisieme {
+  width: 500px;
+  height: 500px;
+}
+
+.quatrieme {
+  width: 500px;
+  height: 500px;
+}
+
+.container2 {
+  display: flex;
+}
+
+.photos1 img {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+}
+
+.photos2 img {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+}
