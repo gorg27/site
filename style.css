@@ -37,6 +37,30 @@ header p {
   padding-bottom: 20px;
 }
 
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search {
+  width: 20px;
+  height: 20px;
+}
+
+.cart {
+  width: 20px;
+  height: 20px;
+}
+
+.hamburger {
+  width: 20px;
+  height: 20px;
+}
+
+.header li {
+  float: left;
+}
+
 .container2 {
   display: flex;
 }
@@ -51,4 +75,14 @@ header p {
   width: 100px;
   height: 100px;
   padding: 2px;
+}
+
+footer {
+  color: #333232;
+  background-color: grey;
+}
+
+footer .container {
+  display: flex;
+  justify-content: space-evenly;
 }
