@@ -1,5 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .haut {
-  background-image: url(./images/IMG_4750.jpg);
+  background-image: url("images/IMG_4750.jpg");
 }
 
 .premier {
@@ -20,6 +25,16 @@
 .quatrieme {
   width: 500px;
   height: 500px;
+}
+
+header p {
+  background-color: blue;
+  text-align: center;
+  width: 100%;
+  height: 20px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .container2 {
