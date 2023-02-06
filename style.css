@@ -99,6 +99,12 @@ header .container {
   padding: 2px;
 }
 
+.bas img {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+}
+
 footer {
   color: #333232;
   background-color: grey;
