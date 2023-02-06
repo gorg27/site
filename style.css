@@ -77,6 +77,28 @@ header .container {
   padding: 2px;
 }
 
+.milieu-2 {
+  display: flex;
+}
+
+.milieu-3 {
+  display: flex;
+}
+
+.milieu-4 {
+  display: flex;
+}
+
+.milieu-5 {
+  display: flex;
+}
+
+.mil-5 {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+}
+
 footer {
   color: #333232;
   background-color: grey;
